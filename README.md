@@ -30,4 +30,4 @@ To run this project locally, ensure you have [Node.js](https://nodejs.org/) inst
 - **Stats-gl**
 
 ---
-*Engineered and designed by [Rahul](https://github.com/rahuljadhav77/)*
+*Engineered and designed by [Rahul Jadhav](https://github.com/rahuljadhav77/)*
